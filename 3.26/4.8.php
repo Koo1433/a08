@@ -7,7 +7,7 @@ do {
     $sum = $sum +$i;
     
 
-} while($i < 50);
+} while($i <= 50);
 
 printf("总计: %d",$sum);
 ?>
